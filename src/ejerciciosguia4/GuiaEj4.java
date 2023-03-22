@@ -12,7 +12,7 @@ public class GuiaEj4 {
         String resultado = verificar(num);
         System.out.println("El numero " + num + resultado);
     }
-    
+    int prueba = 0;
     public static String verificar(int num) {
         String resultado;
         int contador = 0;
